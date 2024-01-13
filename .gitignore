@@ -1,0 +1,7 @@
+#vs code build directory
+.vscode
+
+#executabes
+*.exe
+*.obj
+*.o
